@@ -57,3 +57,8 @@ Login and signup Board with Spring boot and JWT
     API 명세서
     
     https://documenter.getpostman.com/view/24688296/2s8YzQXjru
+    
+    ERD 설계
+    
+    <img width="465" alt="Screen Shot 2022-12-08 at 6 13 45 PM" src="https://user-images.githubusercontent.com/101607147/206406430-f721a34a-eb5f-4500-a813-1e97075b42c0.png">
+
